@@ -1,0 +1,47 @@
+body{
+    margin: 0px;
+}
+header{
+    height: 110px;
+    width: 100%;
+    background: #d8d8d8;
+    position: relative;
+}
+.blue-square{
+    height:80px;
+    width: 80px;
+    background: #4a90e2;
+    position: absolute;
+    top: 15px;
+    left: 15px;
+}
+p{
+    width: 100%;
+}
+.white{
+    /*width: 100%;*/
+    padding: 40px;   
+}
+.blue{
+    height: 110px;
+    width: 100%;
+    background: #4a90e2;
+}
+.aqua{
+    height: 110px;
+    width: 100%;
+    background: #50e3c2;
+    
+}
+.green{
+    height: 110px;
+    width: 100%;
+    background: #b8e986;
+    
+}
+.yellow{
+    height: 110px;
+    width: 100%;
+    background: #f8e71c;
+    
+}
