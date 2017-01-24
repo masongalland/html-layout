@@ -1,0 +1,31 @@
+.blue{
+    width: 33.33%;
+    height: 800px;
+    background:#4a90e2;
+    float: left;
+}
+.green{
+    width: 33.33%;
+    height: 800px;
+    background: #50e3c2;
+    float: left;
+}
+.yellow{
+    width: 33.33%;
+    height: 800px;    
+    background: #b8e986;
+    float: left;  
+    position: relative;  
+}.red{
+    width: 100%;
+    height: 180px;
+    color: white;
+    background: red;
+    text-align: center;
+    position: absolute; 
+    bottom: 0;
+}
+h2{
+    padding: 70px;
+    margin:0px;    
+}
